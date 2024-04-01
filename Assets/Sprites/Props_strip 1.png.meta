@@ -1,0 +1,6603 @@
+fileFormatVersion: 2
+guid: 78723171b985c904697520bbbd1d888f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Props_strip_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 892
+        width: 196
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376848980963b1e45b2523462f33573d
+      internalID: 778622116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_1
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 911
+        width: 113
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba1441968806da348b67edb0ba07f536
+      internalID: 741233996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_2
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 968
+        width: 94
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13cd532d5ee426438b798c85e54bab0
+      internalID: -27535067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_3
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 924
+        width: 92
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c6743a9b4f3ccc40a76a516bc68995d
+      internalID: 507778600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_4
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 925
+        width: 71
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aadc9489c676264e9c6eb92d209be32
+      internalID: -759025694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 927
+        width: 52
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6b3538ecce06741a5c2bf0b0d394a6
+      internalID: -2099922633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_6
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 958
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97eaf33ae53281745a411d5e37d2bba0
+      internalID: -2047123295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_7
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 967
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5a9cc19292caed43905ca6e5cdd4f44
+      internalID: -75065550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_8
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 967
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e22f43c9aa1a1dc45b124f2523b7085f
+      internalID: -1401725545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_9
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 974
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642108325e472cf45938d3be88d26fb1
+      internalID: 798344378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_10
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 977
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7683cc9ab551624abf5ef1faee08a2f
+      internalID: 331876468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_11
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 988
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cba98e2355c3e34abdfbab39491482f
+      internalID: 202797125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_12
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 957
+        width: 40
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6be4a87c3327484680376ff64ab22f1
+      internalID: -1183403379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_13
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 960
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae7e4fe690aaf514d945fc6c0b7b8348
+      internalID: 486867450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_14
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 957
+        width: 26
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb2d51e3b2f15d4191b1a34a20dbca9
+      internalID: 1414733727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_15
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 956
+        width: 14
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb170ea8aebbfb43ae10e1b2dae957c
+      internalID: 822162410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_16
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 867
+        width: 13
+        height: 153
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a3fe456d307e949a4accf21ca89750
+      internalID: -1642797218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_17
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 844
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b628ec8d197ddb14e9485be397470a8c
+      internalID: 1264367585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_18
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 812
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50436e00b7515354dbb9ac2db9c93ab8
+      internalID: 1144972952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_19
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 796
+        width: 20
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b835b052de1294da4dc732ad7be876
+      internalID: -1539495162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_20
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 920
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37aa1bc23b1b86b44abc6dff03b19195
+      internalID: 602498112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_21
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 925
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b8bfb968609c5d439d2ef4bea40d3de
+      internalID: 1450122241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_22
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 889
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22280315207aeaa4a9899a120195cfb4
+      internalID: 714921930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_23
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 853
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e771b38557d2de46af99e7c18023eab
+      internalID: 1834223698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_24
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 820
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8355d3cfda29443b8cc6e082149e37
+      internalID: -1146153625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_25
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 782
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc81847c36c129649948e09a6501ad3e
+      internalID: -2014896841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_26
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 744
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be845225b55a9f409a861145a735925
+      internalID: -135607811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_27
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 720
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b49e8ef142476f48b88f08c3ebf4021
+      internalID: 546950888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_28
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 718
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 837baff4cf3dd65408a47619ec9c46c2
+      internalID: 1814337674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_29
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 676
+        width: 15
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a1c2c7400f62234eb9e226ede246e11
+      internalID: -198760731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_30
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 703
+        width: 15
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9c2031ada24354cb5994906f42027d
+      internalID: -1449954877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_31
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 646
+        width: 10
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7924585450c8953468dce34240914475
+      internalID: 731997588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_32
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 638
+        width: 14
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572e292f4956d4744932787501909c9b
+      internalID: -1633390687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_33
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 636
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32203b04f99873544b43ffd0a5f3a06c
+      internalID: -401764474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_34
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 606
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f6eb8732075424f8761554a2b07446
+      internalID: -86207433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_35
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 477
+        width: 15
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a659decf14115584bb4597fdb321a22e
+      internalID: 1802362615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_36
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 532
+        width: 15
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246029e7f84ac6949ab48ae476246374
+      internalID: -487170049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_37
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 507
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35c7a3db99cba8e4caae41308d620f97
+      internalID: -1040491926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_38
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 459
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9482e7b9dbee20e43982435fdea9a774
+      internalID: 1891472722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_39
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 455
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4bf78ebad1f9984aac1ea1498da817d
+      internalID: -600691997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_40
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 433
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c1ecb84fd39b2245896aa9aea0db454
+      internalID: 263256728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_41
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 412
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ee9076c22cf094b9c60765066e6779
+      internalID: -892730675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_42
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 391
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d918ddf6be70849438391e29d4a4f27b
+      internalID: 1378612504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_43
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 357
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d73316d2c33ba7848ab29be2656f15ae
+      internalID: -1458991325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_44
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 333
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7984f2628707d294fb80b75664f17c12
+      internalID: -1922217682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_45
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 334
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b5e66d002888c44fa7e53845d003c51
+      internalID: 1465776448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_46
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 307
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf58a085b43348841b37ed18924eb619
+      internalID: -1313928456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_47
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 306
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a88cc88f4ef7284786920887b5d24f7
+      internalID: 879544027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_48
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 281
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d42882a787e204a9ec7e2e5936e4ea
+      internalID: -1335562465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_49
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 274
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b14ecb58e2e982d43ace1380fc8d7a29
+      internalID: 1129768521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_50
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 242
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66cffa19ece739f429352eac1821151c
+      internalID: 786301387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 892
+        width: 196
+        height: 132
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa4d84855729ae43945b4acf7b9575b
+      internalID: 956829173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_52
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 210
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1756d4127cd18f45a53986a93fe696d
+      internalID: 1927599899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_53
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 357
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8be0d4bb0ee1145986aada25236b6e
+      internalID: 1869143323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_54
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 395
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca94d73c8fb7b04d98316b3df55fb2a
+      internalID: -510655643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_55
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 435
+        width: 30
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81875bb0222cdd044a5688bf5329fbdd
+      internalID: -1008209589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_56
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 423
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1129668fbbaa44e46a7fe121392e1aef
+      internalID: -314533893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_57
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 462
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5edf58c72261bb1488c5b4dec92deab0
+      internalID: 1885874303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_58
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 490
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd8c0e63329cb4408c0e72266804e37
+      internalID: -1107240706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_59
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 533
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df3dff53cb840304a8715c5e472894ac
+      internalID: 1857498203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_60
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 560
+        width: 28
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9842abb590fa49a4796f8d1551f305e2
+      internalID: -944807030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_61
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 603
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987803d48b462124f89c78b15094fdf8
+      internalID: 2136659499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_62
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 600
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e104fd94e70df941b20c1d9b39281bb
+      internalID: -1392265582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_63
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 625
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d46778316cd16ca479a0e8adb2ce4d9c
+      internalID: 1133338447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_64
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 630
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25a5532b23d61f040954540dc33f0d52
+      internalID: -16360524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_65
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 660
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b864f228e5bd4488181ae828cebcf3
+      internalID: 817130922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_66
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 690
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9238015f03da8544c805d663dbedbaaa
+      internalID: 307458484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_67
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 661
+        width: 33
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc384e0b557d0fe4a8b530b2369228e1
+      internalID: 1182785325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_68
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 746
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a53cb8cca953e409162679366a4887
+      internalID: -557615864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_69
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 759
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 563bbc54f9f80354589c302df4d55171
+      internalID: 1708130440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_70
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 787
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6bfa58d00071ab468015128a0c24414
+      internalID: -2076179640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_71
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 882
+        width: 15
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2400f7342754504b85b7ce059ff2131
+      internalID: 941608980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_72
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 862
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032af5df758a13842a12d381e76d0484
+      internalID: -28474373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_73
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 700
+        width: 188
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a2b7eadae035740bc6cb3d0e2f0d75
+      internalID: -2056655026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_74
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 610
+        width: 179
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5ee63c9efb88644b6f18eb08edb078
+      internalID: -252093425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_75
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 563
+        width: 160
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9094e73a2e506c469b301163187fc4c
+      internalID: -128125634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_76
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 522
+        width: 159
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bc443e40ff01714a96243c15101f46a
+      internalID: 1988812317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_77
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 488
+        width: 144
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b6cd36beeedce946a3da2176bea5bc8
+      internalID: -921898707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_78
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 343
+        width: 140
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6a089e5b95af744b20722c2d54b3a9
+      internalID: -1967851297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_79
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 282
+        width: 136
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6acb157b8a10c8749a2a336b0f1633a7
+      internalID: 487844363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_80
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 293
+        width: 113
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e7c12ca676e1e4696c3f6a1961fcd0
+      internalID: 188300464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_81
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 290
+        width: 106
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05a2b57923ba1fd48a1364920c2f20fe
+      internalID: 223718698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_82
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 271
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f555e171c404384c9d1f038c6edf1d7
+      internalID: -1995446742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_83
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 239
+        width: 100
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ed25e1d7c6edee4ab050caea3baac9f
+      internalID: 2110918340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_84
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 256
+        width: 125
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898d3f87d689d424db6c84d436f9ebfd
+      internalID: -104599649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_85
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 210
+        width: 128
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8fffe6f4d61d3443b09f100c572d756
+      internalID: 1712682340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_86
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 165
+        width: 126
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 066849f9b1b74d549baddb38637b5f8c
+      internalID: 1988405496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_87
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 117
+        width: 128
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af62c15fb3584640ac4c1713f0dc090
+      internalID: -1042308112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_88
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 67
+        width: 125
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1842bdd0b56cc4f489a11566178428e5
+      internalID: -754641793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_89
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 129
+        width: 80
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b497a34acab3f8c4cb6b9c13b55c53e4
+      internalID: -1164437340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_90
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 143
+        width: 99
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abcf4ce2682943f4581a7f3d16c0ff83
+      internalID: -106355316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_91
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 124
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b673e3fb6badf148b1986d74fd349a1
+      internalID: 1149504545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_92
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 254
+        width: 106
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a4d3ffba1184d041ad107435a0922b8
+      internalID: -950260630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_93
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 345
+        width: 126
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08aaa2dff2216841ac001ad2cfed3b0
+      internalID: -368999866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_94
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 478
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00b1bb853fe8b346a76d9090633640f
+      internalID: 1313921316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_95
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 496
+        width: 93
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0aa229f3f2f984eacd85134fb09545
+      internalID: 607320677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_96
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 612
+        width: 100
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce2fd3330d875349bcfaea6a8e1e348
+      internalID: 1343941231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_97
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 648
+        width: 113
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f51dacea87894419aae2e828079106
+      internalID: -336999911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_98
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 700
+        width: 107
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b542c645b1e2b4faf47bb38140feac
+      internalID: -1483933922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_99
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 656
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596f9c3bf31641945862b02234c9142e
+      internalID: 2144476276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_100
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 654
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43887bed1022994db43c62476654f72
+      internalID: 1765968280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_101
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 656
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08308fed197d0b44907ca2b8e2206fe
+      internalID: 215024691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_102
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 672
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e8724d9cd8999499611bafb710a107
+      internalID: 1647733788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_103
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 761
+        width: 92
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652bd8b1e85b66340bb5d8b37a13d90f
+      internalID: 1353344263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_104
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 755
+        width: 110
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05af7689eeb892b40a4b3fa17855d2d9
+      internalID: -2022054135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_105
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 814
+        width: 112
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7cc75ab35491b4394267820b065346
+      internalID: -1413192576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_106
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 903
+        width: 38
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ad747018c110f4184c3fb7f70cfed7
+      internalID: -1687068530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_107
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 904
+        width: 36
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d430cc06fb69344befd90e35a45ca5
+      internalID: 2062935858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_108
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 804
+        width: 94
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37c6ebfa0eb90d478de38db76dcf0d1
+      internalID: -52404620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_109
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 844
+        width: 74
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8781eec40d3542645917615e1787de59
+      internalID: -1641023640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_110
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 752
+        width: 72
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9974ae1b3d64a4e4f87d9de1e3926724
+      internalID: -731044253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_111
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 755
+        width: 38
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8935e47351eae19408209953b1437467
+      internalID: 1610804654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_112
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 747
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7914f1df9e6280458262dad40580b95
+      internalID: 1648211045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_113
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 597
+        width: 94
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4efc9e79fc64345b5235fef9520bbf
+      internalID: 1110280310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_114
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 601
+        width: 82
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4c681800fe79c48913dc4778f360e3
+      internalID: 447732945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_115
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 543
+        width: 78
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d733a6be4e5e3b84a99fbb2352795df5
+      internalID: -1582748286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_116
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 502
+        width: 76
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0cc8c5240d02ea4db20cd45338e07a7
+      internalID: -1262143651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_117
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 502
+        width: 39
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1105e18fb5df6d4d8c9d1c2dd2270aa
+      internalID: 131844730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_118
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 510
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79f6d9b03216514ab7f8c6e34c81ff4
+      internalID: -738351878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_119
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 412
+        width: 100
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a57157acc6d0d14fb3ad5d3c059489e
+      internalID: -358736280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_120
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 346
+        width: 98
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a6954e6f29a574ea4a916427c8eb2e
+      internalID: 475535459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_121
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 346
+        width: 46
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39470eae49153b047967f232ef4d9ca0
+      internalID: -134598354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_122
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 347
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c5a4f1fdc7743a4595eaa7f61ffa7fc
+      internalID: 2120875911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_123
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 300
+        width: 85
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6313ad37e5e0b3b4e8769cc905e85d51
+      internalID: 34828614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_124
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 253
+        width: 82
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e5098574aeffd41a9c94a28572ed35
+      internalID: 1347145908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_125
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 237
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b961a60baa8e7f478ba4b45454eb061
+      internalID: -1733341969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_126
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 67
+        width: 105
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e5b54c247486c14184e532af17c70e1
+      internalID: -1179581277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_127
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 7
+        width: 118
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8269893cb8fd7479b591945a634c57
+      internalID: 1403651594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_128
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 12
+        width: 107
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6796890f024df49a30416ed7e2dd07
+      internalID: 223380763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_129
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 8
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02350fb24c3a9144c827e0d49b150cdc
+      internalID: 596111873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_130
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 32
+        width: 64
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b6bf1a1005cfb48929ba7aa78e51ed
+      internalID: 14158086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_131
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 3
+        width: 44
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 593445dcd0d760d468b4632dc590ba2c
+      internalID: 1581897406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_132
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 5
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b78c0ed786e906408ce70c9f874b8cd
+      internalID: 406650240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_133
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 61
+        width: 62
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5601d8ceca90f6c4b852a6d2912ec96d
+      internalID: 1665116451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_134
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 91
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d58f875132cde478bd4e43912760e1
+      internalID: -1279013185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_135
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 96
+        width: 85
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2724ebeb2e3a744eadb4f542d8eb17f
+      internalID: 1436939904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_136
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 123
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f958caafbd4934491649cdd90a0f75
+      internalID: 1644122985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_137
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 130
+        width: 88
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14205fc9ad7967943a3799facecf73fd
+      internalID: -69933180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_138
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 183
+        width: 89
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 344db959b9b6291458c83b0ab78c6111
+      internalID: 1106090958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip_139
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 67
+        width: 128
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cefb226d8b417e14ea80630b10f489bd
+      internalID: 338746387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_0
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 376
+        width: 52
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e365b9388de58644958b3bb66b2bc5e
+      internalID: 127972237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_1
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 377
+        width: 35
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c8c3153ce63994c98b38776b891c5c
+      internalID: -677774590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_2
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 312
+        width: 54
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 820ee811c6373d949a4dd6baee879566
+      internalID: -215405065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_3
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 324
+        width: 44
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3b076f860fd6c46a251225f151659a
+      internalID: 49841810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_4
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 21
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f966998357f41b4ebe8de7ef5d8e8ac
+      internalID: -765767762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_5
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 55
+        width: 54
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c577812c9fabe6419a971b95dc76c78
+      internalID: -1481832214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_6
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 9
+        width: 51
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e8bf62803d45a841bfa0ee7f43f3f51
+      internalID: 1936397274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_7
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 13
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8e3bf9d51ac2d4dae3b36dfe1a8abb
+      internalID: 1264933770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_8
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 7
+        width: 62
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f85d34718b25749b34cd1c37ea6596
+      internalID: 1752116105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_9
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 71
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ebd2f6b9a102d49940c2c52b2039bb
+      internalID: -1442498115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_10
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 73
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36db4868d9734714c91be83af99e15af
+      internalID: -2134581527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_11
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 106
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ba2b79a86aad742a954c5a7fded9dc
+      internalID: 138851879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_12
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 145
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00bacc5258d778240a3ee1907757e27a
+      internalID: 709381786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_13
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 148
+        width: 36
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f36a62264e4d94438eb34ad8289b6cf
+      internalID: -1246109967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_14
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 141
+        width: 70
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e3733643384fb419425d5dfdd24dac
+      internalID: -1602898431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_15
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 2
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852b9f2861e3f87498adf1d0ae275bb6
+      internalID: -852177159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_16
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 30
+        width: 47
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e2d20a70213ac409cdbdc9e241afaa
+      internalID: -1357770950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_17
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 12
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6229f887a6256c44b0994833bc881f9
+      internalID: 1534733958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_18
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 34
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ae14dc87bb3cc4184ea0cbd548318a
+      internalID: -1130617848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_19
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 6
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617ca90f5ac0434459f389ff8805e09a
+      internalID: 682951146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_20
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 8
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6dee6ac9ea99645adb1355b4a05f54
+      internalID: -1952440672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_21
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 7
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc10e063600a11442bd8d8fab3238b50
+      internalID: 1444655212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_22
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 40
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19322aa557d319049a8707fb2151b2c0
+      internalID: -850944961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_23
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 12
+        width: 15
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d19dbb527c5763248a5b80be9a151d35
+      internalID: -691562337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_24
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 44
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 915d019e608b1fb4192dd9508b338aab
+      internalID: 53852102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_25
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 82
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6123f34f77729d439f4930a0595507d
+      internalID: -1150067212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_26
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 80
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e63bf86b967c924e9287fcbdcda38aa
+      internalID: -936161487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_27
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 81
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97738058f6f79b41be82cccd2cf3a2a
+      internalID: -212415509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_28
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 78
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf50845fe583fb842878548f4863037c
+      internalID: -855898329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_29
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 103
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2695a7d10dc4c4290aa2b1025b8ed0
+      internalID: -292762448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_30
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 72
+        width: 44
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef0841760ffea3f459f899a29b7d79ed
+      internalID: 2126839094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_31
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 76
+        width: 50
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c25482655a1dfc48862e650fe7418f0
+      internalID: 196883495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_32
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 102
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e64db57e05b9bd4bbb42bcad2529cc2
+      internalID: 1710347676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_33
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 103
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9377a59bb88ee0145b281e4511ed8a30
+      internalID: 1259849942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_34
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 129
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d342a36850bc634f8b49fa0829455a7
+      internalID: -2087367530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_35
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 180
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d1581694edcad4dbd0717a469795ca
+      internalID: 1898803864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_36
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 184
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c819983be88afb648ad7e6ce7039d8e0
+      internalID: 680406749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_37
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 166
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4100fe5719f5db4fb743ca924f6c21a
+      internalID: 1689791316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_38
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 194
+        width: 61
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c44e89edfcfb8644840088e322e1f51
+      internalID: 263165821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_39
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 235
+        width: 64
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471e87c7c7a8b2740939a61454e12b7f
+      internalID: 2019383885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_40
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 248
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8e9aa96f961644f9e4df8f91c44358
+      internalID: 2093531926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_41
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 270
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf3e3c16b7c8ed4c8e42c0371bcf366
+      internalID: -729853674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_42
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 232
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9543833a1c3cb1a4aba786bcf7c37a0e
+      internalID: 137391753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_43
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 211
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9543b6106db0d2a44ab42c58a80161ff
+      internalID: 1736178301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_44
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 211
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a1e46655d54e954386ea4be4a20a6f0
+      internalID: -510396782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_45
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 184
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38db506ef6083649926076e6eae33bf
+      internalID: 215218012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_46
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 203
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fdacf3bb1a02c64cbc4487b1cb7ab5f
+      internalID: 391132861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_47
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 150
+        width: 42
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e256c017a09419e4fb66a846dfe7b1c4
+      internalID: 1875519626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_48
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 152
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7fbd0a4fbd60684d9b712fe52ef8b18
+      internalID: 805211880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_49
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 169
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46adb4c4cb6cee34a9991104fdd7ad94
+      internalID: -240779211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_50
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 138
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953649f0856750248a4c3dcf29889471
+      internalID: 1003694927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_51
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 110
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58873b1086f01434387612f8c982073e
+      internalID: -188690046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_52
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 106
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec8f8cd111b6a943b2bd22e84127ad1
+      internalID: -1663704171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_53
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 67
+        width: 15
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b17b24d4658d33a44bcfb1ca55cb6a59
+      internalID: 875666200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_54
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 229
+        width: 15
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55168e5bb360284d88eba09ca218544
+      internalID: -891297785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_55
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 331
+        width: 32
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875be17eeccb743408b81212a8c79f15
+      internalID: -974956980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_56
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 301
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191a6e38f98d1b447a8724dd33904005
+      internalID: 730792554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_57
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 306
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1134a9c4745394085c4a796f6cab46
+      internalID: 13964790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_58
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 251
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3949f83d25ac345947aa880a1a33a4
+      internalID: -2011283630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_59
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 244
+        width: 44
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68309c56a37c7a448a667305e7df69fe
+      internalID: -235412446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_60
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 293
+        width: 52
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808d357be24798641b378c835fadce03
+      internalID: 1081957958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_61
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 343
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b788ef433db35488492d1950599c77
+      internalID: 308342709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_62
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 314
+        width: 46
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5204b81ac2f31844ea340b7d9686a1f2
+      internalID: -1169446158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_63
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 360
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277f12703dd12cf44a08a8d738e3e817
+      internalID: -1164532498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_64
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 377
+        width: 45
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d51d51d123f1b440bf72eb2d1f18c99
+      internalID: -936257391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_65
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 437
+        width: 51
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda63d35cad4ab5409857f2288ae0488
+      internalID: -1643408574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_66
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 437
+        width: 58
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ac94b45875460429bb782281ce4cc1
+      internalID: 849202674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_67
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 382
+        width: 58
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d4e7099d12f534ca8947d89b1ec709
+      internalID: -1858229188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_68
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 400
+        width: 82
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ff03cf74e2b0c43a1beca2724f58ce
+      internalID: 528732460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_69
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 370
+        width: 82
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e2abb5fe2da2941b8436d104a7ee8b
+      internalID: 2081497330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_70
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 428
+        width: 84
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c5b80e0bc715441b0c39d4b5cc1b5a
+      internalID: 983440183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_71
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 438
+        width: 98
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd193818469813478162a3f2fbdfc25
+      internalID: 2096447327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_72
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 476
+        width: 64
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee28c53e65a324438ac956741688434
+      internalID: 83233856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_73
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 191
+        width: 41
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9334da01617db1748bd5c57c734f24a0
+      internalID: -489088620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_74
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 243
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee16788407b7fcb4b8124c58b09ce583
+      internalID: 882183402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_75
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 203
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe2f4fabc10b704f985fc75822ecf6a
+      internalID: 768068674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_76
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 180
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af3e24aa591242429e2f9b460658b62
+      internalID: -1889943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_77
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 158
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4437a5ecdd06c7943917ea1421c7a058
+      internalID: -2056206628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_78
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 136
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3298746a8bae9428d729ca52375678
+      internalID: -80741858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_79
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 119
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7001568dbfa9745bf23b8127837bce
+      internalID: 610388431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_80
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 429
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975fea334713ba041b7a6b7c9c06f113
+      internalID: 1016282229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_81
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 480
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f227f29be5a36f04ba7f0817c6094c40
+      internalID: 2013050470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_82
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 424
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1e7c868fa80f043822c81ec496cddc
+      internalID: -378262437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_83
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 460
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c7fcf21d42ad1429269b6ecd105d3b
+      internalID: 1934232759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_84
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 516
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65eb3522e66973d42bb15f84a5e46624
+      internalID: 1008208512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_85
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 570
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c63b62a803c7634fa864f1537ddce63
+      internalID: 1890105185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_86
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 588
+        width: 1
+        height: 1
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4353426feae729e48a33d7ee05a652ba
+      internalID: -1483090830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_87
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 560
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178537f881523014983789bbe4998f16
+      internalID: 1952816774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_88
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 421
+        width: 48
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d8dbc1be1950ab4398fdaa4d9e8562d
+      internalID: -347774015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_89
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 516
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 224044ee5892c754cad607af1a35b911
+      internalID: -1437317966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_90
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 399
+        width: 49
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff33a91f5793914c9c6ee04c41f11e6
+      internalID: 645659723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_91
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 456
+        width: 49
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992193ba9c49d2a47a551054d0dca26d
+      internalID: 1633943538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_92
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 512
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e8e44fbef2779439832e85b06f3fa4
+      internalID: -1494606115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_93
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 572
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a726a408659be54fb80a32c90c92ee3
+      internalID: -213024488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_94
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 628
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7acb80965ec7744a9de7abfc43eb867
+      internalID: -1416615857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_95
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 686
+        width: 52
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c80aa9f146f11740a4c56b71566e1dc
+      internalID: -223854312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_96
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 646
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf55a6a254012543b00d68861ab3fde
+      internalID: 1433513092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_97
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 582
+        width: 53
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25a007cd14852d4782777da18323af7
+      internalID: -2029039069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_98
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 484
+        width: 59
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6930510f6e4767d4dbd659c34fd1e2e0
+      internalID: -1917280747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_99
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 680
+        width: 37
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d5d3a2bb746ec4dbf11377aa893090
+      internalID: -1316259570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_100
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 687
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8eb6ade99eb60b4d9e879eac65d66d6
+      internalID: -1020105681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_101
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 708
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff8311769260544994e840b687a4a8c
+      internalID: -997092710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_102
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 708
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f47f04431b64fe4c8c9232601ed1cc4
+      internalID: -1882287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_103
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 711
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6594d214167f9f647a6d7101415dbec7
+      internalID: -1509204464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_104
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 777
+        width: 25
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d1d677dbd0f4940895206b39d0006d
+      internalID: 269224410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_105
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 800
+        width: 62
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab126f1e7e968440987028683d0a3a7
+      internalID: -1303856716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_106
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 796
+        width: 58
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcbb4f2efd07a5b4fb42668adc66573b
+      internalID: -200611858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_107
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 898
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d203877eb107f47a84633c40a5d678
+      internalID: -371868031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_108
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 898
+        width: 54
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3968f0524fcc84945afa9e390171d0bc
+      internalID: 1873336842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_109
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 913
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c153925eb1ae2604bba320482219c1dc
+      internalID: 928855890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_110
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 931
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487792d42e3e42f42bfa4232b39100d5
+      internalID: 490971847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_111
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 934
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bb1614ea365ccd4895c09d643b3f782
+      internalID: -1698932530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_112
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 920
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0162ebc9c1c7ac64fab6cf50e587964f
+      internalID: -1903214199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_113
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 888
+        width: 36
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0192c4af17d669f43b0d8271f2b12017
+      internalID: -471852887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_114
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 860
+        width: 39
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87003d63419511d498a5f3f75d149b99
+      internalID: -1759754684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_115
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 777
+        width: 43
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d21fe400f494dc49bf35792588619d0
+      internalID: 1058711936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_116
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 811
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8d3ca67bc2f394a981b2b290591fad
+      internalID: 524462764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_117
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 759
+        width: 49
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3f56aed034fb44a8030a7ca6d2d1ce
+      internalID: -1964434222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_118
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 744
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 771d40ee67f0b054fb062ab1bab7df77
+      internalID: 168848645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_119
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 732
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd198439e2d2baf4aa1b3e5cc31cc89c
+      internalID: -839549353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_120
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 775
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91408ca8767a33240a008c274dc4ff23
+      internalID: 1874492934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_122
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 561
+        width: 48
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cad632f63263d8459ebd46b0d575dfb
+      internalID: 1662666407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_123
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 594
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3354230884aa8b743a0bb9533598a3f5
+      internalID: 1682041955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_124
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 487
+        width: 36
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6147fb20dfd80a94b902dc603f959dcc
+      internalID: -323048161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_125
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 428
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7aa0d42c1a406b4f8318c726c37e430
+      internalID: 871902970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_126
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 434
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df858dd3e2e41a4483a4820169d389b
+      internalID: -184269117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_127
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 214
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f28bb90e29f21429aa1222f84b1289
+      internalID: 1228347235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_128
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 161
+        width: 52
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62107689163724448a254620b692429b
+      internalID: 796358020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_129
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 303
+        width: 61
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f54f9aae82285745a2f133680d9211a
+      internalID: 1735956143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_130
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 301
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f8eaa7b1b71ac4e908dc1bb1f07eaa
+      internalID: 1197999064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_131
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 233
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ff08f3d58ae04498c77a5833c08b8f
+      internalID: -1505829998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_132
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 533
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c39d65ac293901418aae6a04a97eb06
+      internalID: -1512818344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_133
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 605
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97bf34a9266cfa46a8e6e793ef45f6b
+      internalID: -528070179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_134
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 681
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c69733bb6049f4b8733fec3f7f5f58
+      internalID: -40966761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_135
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 777
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f7d2afc4c9aed4b8713da8ff645d14
+      internalID: 1158970954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_136
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 856
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e62dd4c0aaa663546aeaa6074be7656b
+      internalID: 1159704086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_137
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 865
+        width: 54
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c1c2d9201a9b7c4091a6ddaa8a4daf8
+      internalID: 1109366462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_138
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 849
+        width: 57
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1afae8c3ace1efa4a84495725841afe0
+      internalID: -1063620488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_139
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 813
+        width: 49
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878da6a85ac7ae740be1b56d2855a53a
+      internalID: 2086212247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_140
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 846
+        width: 48
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0dc4ed8fe476fe41aedff88a91cfc35
+      internalID: 314142679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_141
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 780
+        width: 40
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69894b949536c4f4d8a64e9c175858d0
+      internalID: 1319983727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_142
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 708
+        width: 42
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56939f53b5ab0364a958417be1fe7678
+      internalID: -950798826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_143
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 717
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f111c6b982a704c9882d5d1b6dfd18
+      internalID: -538187474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_144
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 647
+        width: 41
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1704375da2fddf4892eed118f9b618a
+      internalID: -1746154274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_145
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 597
+        width: 41
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081dc52405adc4948bc17cba3f3c53d7
+      internalID: -2132148485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_146
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 645
+        width: 48
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b469997661ddf5842b146c174ab5bb8a
+      internalID: -1305596817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_147
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 528
+        width: 64
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c14b3eff7e8b8468be5bacd7bd1038
+      internalID: -2102951990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_148
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 478
+        width: 64
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66eebeb37dac71f41a8b4854f028b4c6
+      internalID: 2004901563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_121
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 36
+        width: 132
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b971fde5dcc894da3fe2087e2c1170
+      internalID: -191903316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_149
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 16
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8106cd8218b6d904e8434b7c35ade9cc
+      internalID: 793837500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_150
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 15
+        width: 119
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd8fa0b92b57e14bbca92770cd67c2e
+      internalID: -1290080754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_151
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 102
+        width: 128
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7fae5f416e60834aaee3f2c3acb5a21
+      internalID: 2062837028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_strip 1_152
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 143
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5990c213e867a34449ed2e44a9e1edf2
+      internalID: 354453057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Props_strip 124: -2142544526
+      Props_strip 1_0: 127972237
+      Props_strip 1_1: -677774590
+      Props_strip 1_10: -2134581527
+      Props_strip 1_100: -1020105681
+      Props_strip 1_101: -997092710
+      Props_strip 1_102: -1882287
+      Props_strip 1_103: -1509204464
+      Props_strip 1_104: 269224410
+      Props_strip 1_105: -1303856716
+      Props_strip 1_106: -200611858
+      Props_strip 1_107: -371868031
+      Props_strip 1_108: 1873336842
+      Props_strip 1_109: 928855890
+      Props_strip 1_11: 138851879
+      Props_strip 1_110: 490971847
+      Props_strip 1_111: -1698932530
+      Props_strip 1_112: -1903214199
+      Props_strip 1_113: -471852887
+      Props_strip 1_114: -1759754684
+      Props_strip 1_115: 1058711936
+      Props_strip 1_116: 524462764
+      Props_strip 1_117: -1964434222
+      Props_strip 1_118: 168848645
+      Props_strip 1_119: -839549353
+      Props_strip 1_12: 709381786
+      Props_strip 1_120: 1874492934
+      Props_strip 1_121: -191903316
+      Props_strip 1_122: 1662666407
+      Props_strip 1_123: 1682041955
+      Props_strip 1_124: -323048161
+      Props_strip 1_125: 871902970
+      Props_strip 1_126: -184269117
+      Props_strip 1_127: 1228347235
+      Props_strip 1_128: 796358020
+      Props_strip 1_129: 1735956143
+      Props_strip 1_13: -1246109967
+      Props_strip 1_130: 1197999064
+      Props_strip 1_131: -1505829998
+      Props_strip 1_132: -1512818344
+      Props_strip 1_133: -528070179
+      Props_strip 1_134: -40966761
+      Props_strip 1_135: 1158970954
+      Props_strip 1_136: -1521703842
+      Props_strip 1_137: 1159704086
+      Props_strip 1_138: 1109366462
+      Props_strip 1_139: -1063620488
+      Props_strip 1_14: -1602898431
+      Props_strip 1_140: 2086212247
+      Props_strip 1_141: 314142679
+      Props_strip 1_142: 1319983727
+      Props_strip 1_143: -950798826
+      Props_strip 1_144: -538187474
+      Props_strip 1_145: -1746154274
+      Props_strip 1_146: -1305596817
+      Props_strip 1_147: -2102951990
+      Props_strip 1_148: 2004901563
+      Props_strip 1_149: 793837500
+      Props_strip 1_15: -852177159
+      Props_strip 1_150: -1290080754
+      Props_strip 1_151: 2062837028
+      Props_strip 1_152: 354453057
+      Props_strip 1_16: -1357770950
+      Props_strip 1_17: 1534733958
+      Props_strip 1_18: -1130617848
+      Props_strip 1_19: 682951146
+      Props_strip 1_2: -215405065
+      Props_strip 1_20: -1952440672
+      Props_strip 1_21: 1444655212
+      Props_strip 1_22: -850944961
+      Props_strip 1_23: -691562337
+      Props_strip 1_24: 53852102
+      Props_strip 1_25: -1150067212
+      Props_strip 1_26: -936161487
+      Props_strip 1_27: -212415509
+      Props_strip 1_28: -855898329
+      Props_strip 1_29: -292762448
+      Props_strip 1_3: 49841810
+      Props_strip 1_30: 2126839094
+      Props_strip 1_31: 196883495
+      Props_strip 1_32: 1710347676
+      Props_strip 1_33: 1259849942
+      Props_strip 1_34: -2087367530
+      Props_strip 1_35: 1898803864
+      Props_strip 1_36: 680406749
+      Props_strip 1_37: 1689791316
+      Props_strip 1_38: 263165821
+      Props_strip 1_39: 2019383885
+      Props_strip 1_4: -765767762
+      Props_strip 1_40: 2093531926
+      Props_strip 1_41: -729853674
+      Props_strip 1_42: 137391753
+      Props_strip 1_43: 1736178301
+      Props_strip 1_44: -510396782
+      Props_strip 1_45: 215218012
+      Props_strip 1_46: 391132861
+      Props_strip 1_47: 1875519626
+      Props_strip 1_48: 805211880
+      Props_strip 1_49: -240779211
+      Props_strip 1_5: -1481832214
+      Props_strip 1_50: 1003694927
+      Props_strip 1_51: -188690046
+      Props_strip 1_52: -1663704171
+      Props_strip 1_53: 875666200
+      Props_strip 1_54: -891297785
+      Props_strip 1_55: -974956980
+      Props_strip 1_56: 730792554
+      Props_strip 1_57: 13964790
+      Props_strip 1_58: -2011283630
+      Props_strip 1_59: -235412446
+      Props_strip 1_6: 1936397274
+      Props_strip 1_60: 1081957958
+      Props_strip 1_61: 308342709
+      Props_strip 1_62: -1169446158
+      Props_strip 1_63: -1164532498
+      Props_strip 1_64: -936257391
+      Props_strip 1_65: -1643408574
+      Props_strip 1_66: 849202674
+      Props_strip 1_67: -1858229188
+      Props_strip 1_68: 528732460
+      Props_strip 1_69: 2081497330
+      Props_strip 1_7: 1264933770
+      Props_strip 1_70: 983440183
+      Props_strip 1_71: 2096447327
+      Props_strip 1_72: 83233856
+      Props_strip 1_73: -489088620
+      Props_strip 1_74: 882183402
+      Props_strip 1_75: 768068674
+      Props_strip 1_76: -1889943
+      Props_strip 1_77: -2056206628
+      Props_strip 1_78: -80741858
+      Props_strip 1_79: 610388431
+      Props_strip 1_8: 1752116105
+      Props_strip 1_80: 1016282229
+      Props_strip 1_81: 2013050470
+      Props_strip 1_82: -378262437
+      Props_strip 1_83: 1934232759
+      Props_strip 1_84: 1008208512
+      Props_strip 1_85: 1890105185
+      Props_strip 1_86: -1483090830
+      Props_strip 1_87: 1952816774
+      Props_strip 1_88: -347774015
+      Props_strip 1_89: -1437317966
+      Props_strip 1_9: -1442498115
+      Props_strip 1_90: 645659723
+      Props_strip 1_91: 1633943538
+      Props_strip 1_92: -1494606115
+      Props_strip 1_93: -213024488
+      Props_strip 1_94: -1416615857
+      Props_strip 1_95: -223854312
+      Props_strip 1_96: 1433513092
+      Props_strip 1_97: -2029039069
+      Props_strip 1_98: -1917280747
+      Props_strip 1_99: -1316259570
+      Props_strip_0: 778622116
+      Props_strip_1: 741233996
+      Props_strip_10: 331876468
+      Props_strip_100: 1765968280
+      Props_strip_101: 215024691
+      Props_strip_102: 1647733788
+      Props_strip_103: 1353344263
+      Props_strip_104: -2022054135
+      Props_strip_105: -1413192576
+      Props_strip_106: -1687068530
+      Props_strip_107: 2062935858
+      Props_strip_108: -52404620
+      Props_strip_109: -1641023640
+      Props_strip_11: 202797125
+      Props_strip_110: -731044253
+      Props_strip_111: 1610804654
+      Props_strip_112: 1648211045
+      Props_strip_113: 1110280310
+      Props_strip_114: 447732945
+      Props_strip_115: -1582748286
+      Props_strip_116: -1262143651
+      Props_strip_117: 131844730
+      Props_strip_118: -738351878
+      Props_strip_119: -358736280
+      Props_strip_12: -1183403379
+      Props_strip_120: 475535459
+      Props_strip_121: -134598354
+      Props_strip_122: 2120875911
+      Props_strip_123: 34828614
+      Props_strip_124: 1347145908
+      Props_strip_125: -1733341969
+      Props_strip_126: -1179581277
+      Props_strip_127: 1403651594
+      Props_strip_128: 223380763
+      Props_strip_129: 596111873
+      Props_strip_13: 486867450
+      Props_strip_130: 14158086
+      Props_strip_131: 1581897406
+      Props_strip_132: 406650240
+      Props_strip_133: 1665116451
+      Props_strip_134: -1279013185
+      Props_strip_135: 1436939904
+      Props_strip_136: 1644122985
+      Props_strip_137: -69933180
+      Props_strip_138: 1618801205
+      Props_strip_139: 1106090958
+      Props_strip_14: 1414733727
+      Props_strip_140: 338746387
+      Props_strip_141: -654178507
+      Props_strip_142: 1254284133
+      Props_strip_143: -132489762
+      Props_strip_144: 174047799
+      Props_strip_145: 190797352
+      Props_strip_146: -390682192
+      Props_strip_147: -727696397
+      Props_strip_148: -2051554939
+      Props_strip_15: 822162410
+      Props_strip_16: -1642797218
+      Props_strip_17: 1264367585
+      Props_strip_18: 1144972952
+      Props_strip_19: -1539495162
+      Props_strip_2: -27535067
+      Props_strip_20: 602498112
+      Props_strip_21: 1450122241
+      Props_strip_22: 714921930
+      Props_strip_23: 1834223698
+      Props_strip_24: -1146153625
+      Props_strip_25: -2014896841
+      Props_strip_26: -135607811
+      Props_strip_27: 546950888
+      Props_strip_28: 1814337674
+      Props_strip_29: -198760731
+      Props_strip_3: 507778600
+      Props_strip_30: -1449954877
+      Props_strip_31: 731997588
+      Props_strip_32: -1633390687
+      Props_strip_33: -401764474
+      Props_strip_34: -86207433
+      Props_strip_35: 1802362615
+      Props_strip_36: -487170049
+      Props_strip_37: -1040491926
+      Props_strip_38: 1891472722
+      Props_strip_39: -600691997
+      Props_strip_4: -759025694
+      Props_strip_40: 263256728
+      Props_strip_41: -892730675
+      Props_strip_42: 1378612504
+      Props_strip_43: -1458991325
+      Props_strip_44: -1922217682
+      Props_strip_45: 1465776448
+      Props_strip_46: -1313928456
+      Props_strip_47: 879544027
+      Props_strip_48: -1335562465
+      Props_strip_49: 1129768521
+      Props_strip_5: -2099922633
+      Props_strip_50: 786301387
+      Props_strip_51: 956829173
+      Props_strip_52: 1927599899
+      Props_strip_53: 1869143323
+      Props_strip_54: -510655643
+      Props_strip_55: -1008209589
+      Props_strip_56: -314533893
+      Props_strip_57: 1885874303
+      Props_strip_58: -1107240706
+      Props_strip_59: 1857498203
+      Props_strip_6: -2047123295
+      Props_strip_60: -944807030
+      Props_strip_61: 2136659499
+      Props_strip_62: -1392265582
+      Props_strip_63: 1133338447
+      Props_strip_64: -16360524
+      Props_strip_65: 817130922
+      Props_strip_66: 307458484
+      Props_strip_67: 1182785325
+      Props_strip_68: -557615864
+      Props_strip_69: 1708130440
+      Props_strip_7: -75065550
+      Props_strip_70: -2076179640
+      Props_strip_71: 941608980
+      Props_strip_72: -28474373
+      Props_strip_73: -2056655026
+      Props_strip_74: -252093425
+      Props_strip_75: -128125634
+      Props_strip_76: 1988812317
+      Props_strip_77: -921898707
+      Props_strip_78: -1967851297
+      Props_strip_79: 487844363
+      Props_strip_8: -1401725545
+      Props_strip_80: 188300464
+      Props_strip_81: 223718698
+      Props_strip_82: -1995446742
+      Props_strip_83: 2110918340
+      Props_strip_84: -104599649
+      Props_strip_85: 1712682340
+      Props_strip_86: 1988405496
+      Props_strip_87: -1042308112
+      Props_strip_88: -754641793
+      Props_strip_89: -1164437340
+      Props_strip_9: 798344378
+      Props_strip_90: -106355316
+      Props_strip_91: 1149504545
+      Props_strip_92: -950260630
+      Props_strip_93: -368999866
+      Props_strip_94: 1313921316
+      Props_strip_95: 607320677
+      Props_strip_96: 1343941231
+      Props_strip_97: -336999911
+      Props_strip_98: -1483933922
+      Props_strip_99: 2144476276
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

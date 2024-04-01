@@ -1,0 +1,2171 @@
+fileFormatVersion: 2
+guid: 7fb4616e59e9f2a49a6828d2774156f6
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BaldGuard_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 447
+        width: 59
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e869e73b9449b8648a16b813dc11e45d
+      internalID: -2072601134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldGuard_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 450
+        width: 60
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180a8c7c412570f41bee2feadec13727
+      internalID: -1442861815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldGuard_2
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 456
+        width: 60
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d0750dd2138ff4198268a24c8fa5c3
+      internalID: 11946730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldGuard_3
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 463
+        width: 59
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f9fdd268dea5b4e8d13f2b7bfd69f0
+      internalID: -1638201841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldGuard_4
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 462
+        width: 57
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c28a51b3f43d28d478295029497dbf5a
+      internalID: -617219580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldGuard_5
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 467
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31446bdd6ee36fb438388520cc06f604
+      internalID: 1635004682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldGuard_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 383
+        width: 58
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a287c9a75517644e93eb654974eae60
+      internalID: -1622358845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldGuard_7
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 406
+        width: 57
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3923304c38841be4fb2cff94cbe366a5
+      internalID: -829467229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldGuard_8
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 404
+        width: 57
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a767f81f3b7c84f458f475b13b4f2573
+      internalID: 397083995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldGuard_9
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 405
+        width: 56
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: befdb2909b97a9346a01794f8befede2
+      internalID: 1300533664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldGuard_10
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 405
+        width: 52
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329b84893bd46e04fa4dc51f3cb59fff
+      internalID: -1957720820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldGuard_11
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 405
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62397cf2fbdabb3489653c45b3017139
+      internalID: -1948931334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldGuard_12
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 408
+        width: 57
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 887b0f00f361de74fa746adafe3d889a
+      internalID: 1706056987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldGuard_13
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 412
+        width: 59
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6026d653b740fe946bbf50d254f5f9b2
+      internalID: 1797255198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldGuard_14
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 404
+        width: 51
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f237095e79ad44a4cb9c640b835dadb6
+      internalID: 1546630208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldGuard_15
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 325
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed134cbcf2aca4743b255118998ce258
+      internalID: 137990583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldGuard_16
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 357
+        width: 53
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96184bd0f79989a4e9c98d3bc32daa97
+      internalID: -448745424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldGuard_17
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 363
+        width: 56
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a82e69b64f6dee45b0566ac56e50587
+      internalID: -1170936522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldGuard_18
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 362
+        width: 53
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96329922b6401e4883a7360575be1af
+      internalID: 1922429076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldGuard_19
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 362
+        width: 52
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0cd2fc706aca9a4988f796a8767b888
+      internalID: 1163933331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldGuard_20
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 362
+        width: 54
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50247eaaa54940c499ebcea1a41d29f1
+      internalID: 696473412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldGuard_21
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 364
+        width: 53
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c7a57719b81f824082958f163442f61
+      internalID: -2049694621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldGuard_22
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 366
+        width: 56
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 011f8de018ed2e64c9b803a3d6069f8e
+      internalID: 879213792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldGuard_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 268
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeba12581c59f0d48ba65faa01b7b020
+      internalID: -1687343065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldGuard_24
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 308
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc7fbacb082c3c45b6a1355f7c8468e
+      internalID: 1602862847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldGuard_25
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 320
+        width: 51
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696f4ae36ce7cee4bb4698eb7206a400
+      internalID: -359407040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldGuard_26
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 322
+        width: 54
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1970098d928c1d4aba7c54ec7f0726a
+      internalID: 1123556010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldGuard_27
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 321
+        width: 54
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179ef746698674a4b92564882aa23a20
+      internalID: 1450813574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldGuard_28
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 322
+        width: 54
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282e057a43926d1418819a715f4b69cf
+      internalID: -761879266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldGuard_29
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 322
+        width: 54
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02daacfd3bd83ae418eedfe26f08fd78
+      internalID: -50721912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldGuard_30
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 322
+        width: 54
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c73e8bfefd2a324b9cd03ed74e55a78
+      internalID: 1077561986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldGuard_31
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 322
+        width: 54
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab4a73d7e8a80d4419503e3d1c3f140f
+      internalID: 856200952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldGuard_32
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 260
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169360bf3fead894e8f9c3e8e7c585ca
+      internalID: 1905626006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldGuard_33
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 281
+        width: 54
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fed2fad8206eb545bf9767f279cf1dc
+      internalID: -2108290522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldGuard_34
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 210
+        width: 56
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc57ea9835410dc459a941b821952c1b
+      internalID: 1431381843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldGuard_35
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 284
+        width: 53
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d451373df38ca648b7f9c0492069351
+      internalID: 497347412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldGuard_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 212
+        width: 57
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65a6ef929f899246967782bcd02e2d5
+      internalID: -289105828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldGuard_37
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 214
+        width: 51
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9fb43659e036ce479db2cedf94b18a3
+      internalID: 899119041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldGuard_38
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 241
+        width: 54
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04dbf1c47dfe35642bac78fe1a8655fd
+      internalID: 198374628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldGuard_39
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 246
+        width: 55
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ac174f076343644a4207733929abed
+      internalID: 393977302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldGuard_40
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 248
+        width: 57
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34f3ea948033e84fb7fe0677d3186b5
+      internalID: 553380439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldGuard_41
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 248
+        width: 57
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 369c5fe76178b6443b248c351448d694
+      internalID: -1064463913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldGuard_42
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 248
+        width: 55
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a4c174b3c71ee418f2c55b3370dc0f
+      internalID: -695312760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldGuard_43
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 169
+        width: 51
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b241915bbc7865d48aa16d8ff8f3bdcc
+      internalID: -1197190653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldGuard_44
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 202
+        width: 52
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737c371aa6c1c664d8653a2bcdfb0c81
+      internalID: 1409164028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldGuard_45
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 210
+        width: 56
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09256568851f6e745a41efa4a41e86a2
+      internalID: 183028899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldGuard_46
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 210
+        width: 55
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae7dbadd9f3d0542b04bb1552506fb1
+      internalID: -1279424124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldGuard_47
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 210
+        width: 55
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a614d72144a0dc40b078a64ff8a5263
+      internalID: -445952442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldGuard_48
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 210
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72350fb18810ee41a2dbb8e07969320
+      internalID: -1964488232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldGuard_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 154
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c29ece03b4ae1af458b494fe3fb45474
+      internalID: -751123899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldGuard_50
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 162
+        width: 54
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dfc75c5ddd85c44298ec2e131075394
+      internalID: 1860981188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldGuard_51
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 174
+        width: 55
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c179ad668c8534185ebd73b8c3a7c1
+      internalID: 2049096153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldGuard_52
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 174
+        width: 55
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81debb90dcb39746b7e090b44a78d5e
+      internalID: 1208927612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldGuard_53
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 174
+        width: 54
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cffe97f54bac2a0468e2f6a380d4ae05
+      internalID: 269079822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldGuard_54
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 174
+        width: 55
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e79d94964b8c52b41bd8940319b1691a
+      internalID: -342046130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldGuard_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 101
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8287bbd2007bc429c154b65f19eb97
+      internalID: -1623135681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldGuard_56
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 125
+        width: 54
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a45fe1f188cb0d944877a91ab65dd0e9
+      internalID: -1554111515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldGuard_57
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 122
+        width: 54
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece37e87b534c9b4cb8fa6838c0fc297
+      internalID: 183792825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldGuard_58
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 138
+        width: 54
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d3dfc81a1fda045b4dbfcc49b7163d
+      internalID: 216011538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldGuard_59
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 136
+        width: 55
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 669b2de0d33353a489f76bb215e2aa05
+      internalID: -334818574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldGuard_60
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 138
+        width: 53
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e5e7ddb3c5d63e478363b2aa16990a7
+      internalID: -1271564244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldGuard_61
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 138
+        width: 55
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a295d705ddfc34eab86235cf41ede9
+      internalID: 1782808789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldGuard_62
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 80
+        width: 53
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15481c58d72e1d94392edb8f032a2baa
+      internalID: 2061732583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldGuard_63
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 82
+        width: 52
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b89439cb027243459d029cd4d565a57
+      internalID: -1624102597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldGuard_64
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 103
+        width: 54
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926a64d56f2e4264d88f85a904463b2e
+      internalID: -1390884926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldGuard_65
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 102
+        width: 55
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1acc9d8e81e68c3458575ca7a2ddbfdf
+      internalID: 935729038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldGuard_66
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 102
+        width: 55
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a73a580849930409a5f70db3997eba
+      internalID: -1871511665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldGuard_67
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 57
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96b084536b153c743931a3243578df9d
+      internalID: -976517545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldGuard_68
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 37
+        width: 51
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5480d33f9c0cd46bc22843390c887d
+      internalID: 1591268217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldGuard_69
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 45
+        width: 52
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2700603c07af14547984df7a80bcce62
+      internalID: 1052036649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldGuard_70
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 66
+        width: 55
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284203c7e5938494980470840b21a9a2
+      internalID: 1849506409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldGuard_71
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 66
+        width: 55
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4c5f2a736c0114d9ad032bd814a67e
+      internalID: -425554010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldGuard_72
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 66
+        width: 55
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16bbc5a84e8eb074da5b3eeed90f6906
+      internalID: -1093634459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldGuard_73
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 68
+        width: 54
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0e4d701b0c1584da45f1e9eb2d0f67
+      internalID: -1318716412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldGuard_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 59
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d143d0bb9ab7447a3e5db441943b4e
+      internalID: 272342080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldGuard_75
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 30
+        width: 55
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8219650b1c9e3424990591ca4015a6be
+      internalID: -409522120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldGuard_76
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 30
+        width: 55
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4687dbe670e18d546a246af4271699dc
+      internalID: 1036745071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldGuard_77
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 30
+        width: 55
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1285cbeda766745b61e52a8b6b5a64
+      internalID: 1121386612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldGuard_78
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 284
+        width: 53
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61884faecb4c76d4094feab2a2e2e48a
+      internalID: 284911240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldGuard_79
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 462
+        width: 56
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00101ed8819712f45bea0ec6a59a4568
+      internalID: -1109197581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldGuard_80
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 462
+        width: 52
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8297e5f953e5f6545bc5d779e800e942
+      internalID: -917572686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldGuard_81
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 362
+        width: 54
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86e885d45fcf024db2dd2e5867e5950
+      internalID: 1610172153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldGuard_82
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 282
+        width: 54
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6dc0fa9026ee5b46abc1db099c46633
+      internalID: 430445944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldGuard_83
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 284
+        width: 54
+        height: 38
+      alignment: 9
+      pivot: {x: 0.49851933, y: 0.546316}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9281e6914d1628f4585f3ee414b2c0b4
+      internalID: -1832857111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldGuard_84
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 284
+        width: 54
+        height: 38
+      alignment: 9
+      pivot: {x: 0.49954903, y: 0.5513498}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f72ca2708f8a41409cab6b881d05bc0
+      internalID: 271758380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldGuard_85
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 247
+        width: 54
+        height: 37
+      alignment: 9
+      pivot: {x: 0.4996304, y: 0.58054084}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a3e06d8a2943e49aa384947210033a
+      internalID: -2140040231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldGuard_86
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 174
+        width: 54
+        height: 36
+      alignment: 9
+      pivot: {x: 0.49925968, y: 0.60499996}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15750b62caa03cb42afaef35aa3a64f9
+      internalID: 813946617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldGuard_87
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 138
+        width: 54
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5011116, y: 0.593889}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca151f3d73ea0904caf663a99be6e59c
+      internalID: -1286237186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldGuard_88
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 102
+        width: 54
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5007412, y: 0.60722226}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a17baf7a1e9844e8151b3ef5f51e3a
+      internalID: 352623833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldGuard_89
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 66
+        width: 54
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5011116, y: 0.60999995}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd40d824ca577c48bc8a24732c3ac64
+      internalID: -1617684710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldGuard_90
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 30
+        width: 54
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5007415, y: 0.611111}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22bd85c95925565479faefd7766d7e8a
+      internalID: -1786530941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BaldGuard_91
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 102
+        width: 55
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41bd7a767253d54b923a0d86c6aca91
+      internalID: 1396352537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BaldGuard_0: -2072601134
+      BaldGuard_1: -1442861815
+      BaldGuard_10: -1957720820
+      BaldGuard_11: -1948931334
+      BaldGuard_12: 1706056987
+      BaldGuard_13: 1797255198
+      BaldGuard_14: 1546630208
+      BaldGuard_15: 137990583
+      BaldGuard_16: -448745424
+      BaldGuard_17: -1170936522
+      BaldGuard_18: 1922429076
+      BaldGuard_19: 1163933331
+      BaldGuard_2: 11946730
+      BaldGuard_20: 696473412
+      BaldGuard_21: -2049694621
+      BaldGuard_22: 879213792
+      BaldGuard_23: -1687343065
+      BaldGuard_24: 1602862847
+      BaldGuard_25: -359407040
+      BaldGuard_26: 1123556010
+      BaldGuard_27: 1450813574
+      BaldGuard_28: -761879266
+      BaldGuard_29: -50721912
+      BaldGuard_3: -1638201841
+      BaldGuard_30: 1077561986
+      BaldGuard_31: 856200952
+      BaldGuard_32: 1905626006
+      BaldGuard_33: -2108290522
+      BaldGuard_34: 1431381843
+      BaldGuard_35: 497347412
+      BaldGuard_36: -289105828
+      BaldGuard_37: 899119041
+      BaldGuard_38: 198374628
+      BaldGuard_39: 393977302
+      BaldGuard_4: -617219580
+      BaldGuard_40: 553380439
+      BaldGuard_41: -1064463913
+      BaldGuard_42: -695312760
+      BaldGuard_43: -1197190653
+      BaldGuard_44: 1409164028
+      BaldGuard_45: 183028899
+      BaldGuard_46: -1279424124
+      BaldGuard_47: -445952442
+      BaldGuard_48: -1964488232
+      BaldGuard_49: -751123899
+      BaldGuard_5: 1635004682
+      BaldGuard_50: 1860981188
+      BaldGuard_51: 2049096153
+      BaldGuard_52: 1208927612
+      BaldGuard_53: 269079822
+      BaldGuard_54: -342046130
+      BaldGuard_55: -1623135681
+      BaldGuard_56: -1554111515
+      BaldGuard_57: 183792825
+      BaldGuard_58: 216011538
+      BaldGuard_59: -334818574
+      BaldGuard_6: -1622358845
+      BaldGuard_60: -1271564244
+      BaldGuard_61: 1782808789
+      BaldGuard_62: 2061732583
+      BaldGuard_63: -1624102597
+      BaldGuard_64: -1390884926
+      BaldGuard_65: 935729038
+      BaldGuard_66: -1871511665
+      BaldGuard_67: -976517545
+      BaldGuard_68: 1591268217
+      BaldGuard_69: 1052036649
+      BaldGuard_7: -829467229
+      BaldGuard_70: 1849506409
+      BaldGuard_71: -425554010
+      BaldGuard_72: -1093634459
+      BaldGuard_73: -1318716412
+      BaldGuard_74: 272342080
+      BaldGuard_75: -409522120
+      BaldGuard_76: 1036745071
+      BaldGuard_77: 1121386612
+      BaldGuard_78: 284911240
+      BaldGuard_79: -1109197581
+      BaldGuard_8: 397083995
+      BaldGuard_80: -917572686
+      BaldGuard_81: 1610172153
+      BaldGuard_82: 430445944
+      BaldGuard_83: -1832857111
+      BaldGuard_84: 271758380
+      BaldGuard_85: -2140040231
+      BaldGuard_86: 813946617
+      BaldGuard_87: -1286237186
+      BaldGuard_88: 352623833
+      BaldGuard_89: -1617684710
+      BaldGuard_9: 1300533664
+      BaldGuard_90: -1786530941
+      BaldGuard_91: 1396352537
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

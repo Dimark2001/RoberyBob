@@ -1,0 +1,3909 @@
+fileFormatVersion: 2
+guid: 4da6176460e7fc14395b984eca5bbda4
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Props_Suburbs_0
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 369
+        width: 56
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8360ca0a81ac05d4fa54a3e38fcea40b
+      internalID: 219722459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_2
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 252
+        width: 64
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb6f254be8d847d4c8ac1d9ccfb87802
+      internalID: -2028070328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_1
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 376
+        width: 66
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab3a0ea6105d2a94091b5b4e50fc26ad
+      internalID: -1047425656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_3
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 8
+        width: 86
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4137d2abdf3bd4e9b14b89265a1fa2
+      internalID: -56624477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_4
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 3
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe59d065c73580459fbe7ae5cf5966e
+      internalID: -158419931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 57
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629414f4031659c4bb64862d1eb0d01c
+      internalID: -875938888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_6
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6099d039cfb39458a492b2185dd078
+      internalID: 1419466218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_7
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 3
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6a04ef3a15ea1458a55420ee223ee4
+      internalID: 1177632929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_8
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 0
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3565b8d4a9bcfb443b33fc460280396c
+      internalID: 1534121490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_9
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 0
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e037078601e0341bc8ad827e2811c1
+      internalID: -1295728544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_10
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 0
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db3d9bf1357aec41ba8542f1f0f03d4
+      internalID: -1699006523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_11
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 4
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c12b65ffaf13649a214b42fd8b6b5b
+      internalID: 415555819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_12
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 4
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8383b592e9d593246b0e0989828038a5
+      internalID: 1033147888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_13
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 3
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac011e38c4411c4189269a2dd5e3a9a
+      internalID: -346326055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_14
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 6
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e80c48dc61648843ab6dd2113f204ea
+      internalID: -1149111422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_15
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 6
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213d56f92acd2534f9ef270d65972e27
+      internalID: -1753543395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_16
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 4
+        width: 41
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71796a8fb2671dc44b99bbeff5610019
+      internalID: 93732347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_17
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 5
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc906ba28587f742b553136cfa6b665
+      internalID: 108108074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_18
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 9
+        width: 56
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264ff9d34887ca04199b6e7d52e18798
+      internalID: 1022371886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_19
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 33
+        width: 34
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663ac2418541aca4cb6cbe566e5c6e05
+      internalID: -88255812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_20
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 4
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c45856a0e2b4b747a53faefc7c73b4a
+      internalID: -721350338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_21
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 60
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81454595097d8243b4086d0a559faa8
+      internalID: -579467250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_22
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 64
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de665b2bedf7774c834a73902c8a4e5
+      internalID: -1142965760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_23
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 57
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7e149b1dd2257408876dec9feaaf50
+      internalID: -1699348401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_24
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 50
+        width: 64
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9098fdd1a9301e54c8bc06c5591a5e42
+      internalID: -1685423882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_25
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 48
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4f0e1d76ef04f43a1f82495c43a097
+      internalID: 1297728263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_26
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 72
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f74cde9306bbac438dabe8dd6e81963
+      internalID: 2084991999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_27
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 75
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07858a3c3946cca448e15d057a548226
+      internalID: -1445633344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_28
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 75
+        width: 160
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c21c64e5f40e6a24594de3438fd3af77
+      internalID: -70085086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_29
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 68
+        width: 49
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2724c0c213a1c0143991f99f4a83ddb5
+      internalID: -1970414056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_30
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 31
+        width: 128
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01bbd1aa91cf00a4796345e54d7c5e48
+      internalID: 1777484654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_31
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 12
+        width: 32
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3128ea6d3e830e4cabe282180f0c21d
+      internalID: 550397547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_32
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 31
+        width: 26
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cef8dd160e53a14caf2b0ea6603509d
+      internalID: 1894490649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 92
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c78839d6d38faa14387eb4da997d8688
+      internalID: 2019313983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_34
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 188
+        width: 61
+        height: 217
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced0faeec94ae9748a38e1cd839e2579
+      internalID: 1849622928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_35
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 76
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc4dd6ccc8dcb04ea48b3e127a99156
+      internalID: 1868320384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_36
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 250
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf96e86a4977494a97a1d813d52dcf5
+      internalID: 2038877792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_37
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 223
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d890d5a9475604fb8395ad0846d9f7
+      internalID: -386333254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_38
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 170
+        width: 98
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e001d466e10da694892f5569f97d5370
+      internalID: -697670577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_39
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 166
+        width: 234
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87cfa6f723e3dbd4d9f89f8eba7744b5
+      internalID: -1398853224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_40
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 103
+        width: 64
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8df5abbdc619f842816bda53781e1ab
+      internalID: -38377589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_41
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 106
+        width: 136
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cc40d3e4e864d84e87fafb033d0f8c6
+      internalID: -191931313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_42
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 123
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220b03ed5f3334d409632a7b3d42c964
+      internalID: 2002104484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_43
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 109
+        width: 59
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3556c9911bea9af42a89dc7236f1e19e
+      internalID: 1936567967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_44
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 112
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 655cc64d3d2bd4042a150cd465bdee2e
+      internalID: 196849497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_45
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 170
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60c7d55dae6c4b4982c95ae74366d5d
+      internalID: 2142809972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_46
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 171
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e14d3b5d2ecfc4bb12b8c8ef13367b
+      internalID: -1785009125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_47
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 152
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6648f1854e4d24d49bd612980fa83135
+      internalID: -1764463153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_48
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 154
+        width: 158
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e248901fb5945c34e8829b44181875ff
+      internalID: 1514553722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_49
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 196
+        width: 70
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1778f94f576f794c95e7286039a594c
+      internalID: -1579431332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_50
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 202
+        width: 70
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c65c42434390554ba40e8a6bf1f2483
+      internalID: 1049386733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_51
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 208
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d95d7a216373eb47af936b9df8f45ac
+      internalID: 2007443059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_52
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 216
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2536884bf3f9504a9c0c931fc21c0bd
+      internalID: 519808322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_53
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 246
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d25d78dd7d13a48bc852e31fdaac7a
+      internalID: -890556585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_54
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 273
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8271a24c90d264643ae575825cc7f82c
+      internalID: 1872300691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_55
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 292
+        width: 53
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a6fe729f73d2843b0aeb62319853a5
+      internalID: 1237807745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_56
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 287
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b730944a94104344da8635015499cf74
+      internalID: 1575810418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_57
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 270
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67641d9cfbe48f14796e44404d99e66e
+      internalID: 1763119686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_58
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 246
+        width: 114
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d2dcc41a807094aa94d2c79246d305
+      internalID: 364031565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_59
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 246
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b7152977bf98542b072dead9cece72
+      internalID: -1313392058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_60
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 304
+        width: 80
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7141f13be98e594469ccd6c45249900c
+      internalID: -108866594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_61
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 288
+        width: 56
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f645df9c3f376245bb39c2e2d9e21d2
+      internalID: -485495749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_62
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 330
+        width: 39
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e25328f042c59438aae1680b545d45
+      internalID: 13063473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_63
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 247
+        width: 55
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cfcf3bb8b171fe4a863548a5c2cc1c9
+      internalID: -1383774932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_64
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 277
+        width: 23
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e4189dac2fd0f2459f534474809f60a
+      internalID: 1168329596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_65
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 275
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0caad208a898f3c419eceb59d68c8ec0
+      internalID: -701148454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_66
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 285
+        width: 122
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5aac6ee7af59b3448fefa9b6abb024d
+      internalID: 632968215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_67
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 381
+        width: 92
+        height: 287
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66223dcd434433c4d81309421f4eb3a4
+      internalID: 640474658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_68
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 313
+        width: 55
+        height: 95
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eeabf835e31f56438dc474c15605b58
+      internalID: -2035340405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_69
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 330
+        width: 77
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0414e6c6c40d6f343871853b2c5055a5
+      internalID: 1285412049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_70
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 362
+        width: 172
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e61bae1ed8919a4cb74bfcc7707cbb8
+      internalID: -1330340748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_71
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 309
+        width: 53
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7863a3827684b469a7836768c6d5b9
+      internalID: -1892835654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_72
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 331
+        width: 25
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19b08c9be90ae7468f039b940c2d622
+      internalID: 783688894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_73
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 334
+        width: 78
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8a4d95fb4da9c47b6a29c48f7ac900
+      internalID: 1745418993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_74
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 378
+        width: 59
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7d50d280c4ee5042acc62aef45abfdf
+      internalID: 361018878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_75
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 409
+        width: 36
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7f45fa03e062d44891128f1d7353a7
+      internalID: 1310336443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_76
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 409
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119a20d894973c0478cd62c19a6e9d32
+      internalID: -632971634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_77
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 428
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eac330a4cfe4db4c9d684c86c0094d6
+      internalID: -1132221152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_78
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 461
+        width: 51
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a978f26de0f2bc9418d10c94e32c1fe9
+      internalID: 931582071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_79
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 448
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43e154ad8036e78468881e4ab6ff391e
+      internalID: 2007601049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_80
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 429
+        width: 108
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62de697d19ce414285618657335859f
+      internalID: -1165053430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_81
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 430
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd1feec73a258c4f8b7f75f95cc8456
+      internalID: 141294352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_82
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 439
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2644d0f68293d5c4d8402d51a3355853
+      internalID: -1478731711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_83
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 426
+        width: 71
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b4d35010ee60748a3e6f71795aca05
+      internalID: -243215539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_84
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 426
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1bb646cec17fde4384fecad15e8770e
+      internalID: 1995943843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_85
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 408
+        width: 266
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99fea580933edf642ac63d9b2a2db9bd
+      internalID: 1122230964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_86
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 670
+        width: 120
+        height: 353
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c08f4c75259f774990d2a9119d9ae99
+      internalID: -2016316788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_87
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 678
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8840f68c901de2845b680324fecac027
+      internalID: -479987305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_88
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 672
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a3894d819b8c214caa12a9c7da09e03
+      internalID: -860472927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_89
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 686
+        width: 3
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5895606bf0138ab488c1ecd210e7a4e7
+      internalID: 662415207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_90
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 690
+        width: 87
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd53c96d025c22f4e9d1fc9d93364e24
+      internalID: -442386576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_91
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 852
+        width: 37
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02802f3ffe8566a42bb3727b0da40e4b
+      internalID: -359000798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_92
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 852
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2409c86a62007b45b58edc08eac59e2
+      internalID: -1645929438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_93
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 872
+        width: 10
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59790e10982eb0c48be80db09aa236f9
+      internalID: 216742825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_94
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 855
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41787a826e8609642b05033b4d2a4d6d
+      internalID: 547343612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_95
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 886
+        width: 32
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad738288f923d5f498d3853cf07a08dd
+      internalID: -366766417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_96
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 904
+        width: 43
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4f21a51729265d41bbfff3324a297a6
+      internalID: 628099346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_97
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 780
+        width: 88
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7fc01e4d7f601c4aa11b3783f9d833a
+      internalID: 988365186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_98
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 675
+        width: 78
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92a43f2f3cd630449a4954f4cdb977a5
+      internalID: 1238830039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_99
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 678
+        width: 20
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7ca16af0b0bba48bd203a12dcf16fc
+      internalID: -2056360127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_100
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 727
+        width: 37
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91ff88924abce841a482af2f2da5aaa
+      internalID: 2096796247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_101
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 977
+        width: 3
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3473cac451d2a65449af00aee4f0d354
+      internalID: -780302584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_102
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 1001
+        width: 3
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bfd82ead2cdb7448a40b4d9e7cc2691
+      internalID: -1250249143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_103
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 921
+        width: 98
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8367c0b643277c47852e57963fe8505
+      internalID: -175939528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_104
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 824
+        width: 55
+        height: 94
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3639681120c28da4ea0b80c41a2bb957
+      internalID: 1815733762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_105
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 782
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d09b2652fba27dd4e9effa3cd7fcc9ec
+      internalID: 376185469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_106
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 940
+        width: 142
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6cd38210a3a5346ab80ff974e73726
+      internalID: 1605010606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_107
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 863
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150f8888b4a8d8f45a4f5081ee0c9988
+      internalID: -1304917935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_108
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 825
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd31024e47cd02e418886c4ff44ab464
+      internalID: 1693200217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_109
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 738
+        width: 62
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36cf3d4d67ae1ce4e8c22ba8c059b1e2
+      internalID: -1947941349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_110
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 659
+        width: 35
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852b7decef6360c4ebbed57a19995a4b
+      internalID: -1627501535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_111
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 603
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6744789148aeb2d4891edbf9f5e7011a
+      internalID: 509316605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_112
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 503
+        width: 166
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82401aa84a2446941a98b65ceaf29ac1
+      internalID: -560255913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_113
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 504
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6a66cda66b35c4f87eaca767ebe7d2
+      internalID: 1710492814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_114
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 483
+        width: 140
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb0b0f40031cab54bb2d83cb76e5e075
+      internalID: -100492737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_115
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 490
+        width: 66
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a6b18bea5b2a2746bb396eeb87ea239
+      internalID: -1401518252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_116
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 532
+        width: 70
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75c8bd1a458d104e96c92ad7aafe9ff
+      internalID: -948264572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_117
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 576
+        width: 74
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ab22d136cc6584ca2c6aece5a3b38d
+      internalID: 904869145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_118
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 541
+        width: 151
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e305c605dbd024293982d9c68d5579
+      internalID: -1549045055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_119
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 601
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6164a81bb92b2a1428210928efee9614
+      internalID: -672264551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_120
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 599
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c27eaecb525a840bc1acd93f3730ab
+      internalID: 478612572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_121
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 600
+        width: 81
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2c54e3ba854fc48a1987344e728958
+      internalID: 642272815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_122
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 598
+        width: 78
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb945922fd875a47887543a66daf598
+      internalID: 913299182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_123
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 664
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577be2b2ee3563e4aafd0507d0409ffa
+      internalID: -1920293272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_124
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 666
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69bf5c377b389a443a81ce42604262ab
+      internalID: -846608712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_125
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 659
+        width: 28
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a022dafb7cceb50478fc915728db9e5b
+      internalID: -893203636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_126
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 784
+        width: 64
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af62349da08c9e24888b562164d7e7b1
+      internalID: -712848938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_127
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 754
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788884e84db6fa34b8e9b754ae59c912
+      internalID: 620273986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_128
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 738
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2e1f3cad44e754ba45e2eb2181fef1
+      internalID: 723826043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_129
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 721
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a18ee873510dfc94e922d233c6792c7e
+      internalID: 1698733357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_130
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 745
+        width: 82
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7eaa634812a744f8a364a08895e415
+      internalID: 1881521843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_131
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 682
+        width: 101
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a54ba8e11fd3ec4c989b77a41f2d870
+      internalID: 86885741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_132
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 659
+        width: 45
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d083340e7746fd4db6b7e6c0cf59f01
+      internalID: 195168306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_133
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 627
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7283bac811013e4faa57db137fe73be
+      internalID: -1748203578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_134
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 627
+        width: 104
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489306cfce1fb88498e2fe5eaf2a7c22
+      internalID: -168230585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_135
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 582
+        width: 144
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b8a41c9b2679342a79be64db2e4ed3
+      internalID: -1876344395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_136
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 578
+        width: 3
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add64348924d1174d84b1a3dd2990fbc
+      internalID: -1297514393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_137
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 606
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171e40b827e5f4943bdba4e0a91c0fdf
+      internalID: -297902358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_138
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 628
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86d5039020deaa46bf62c71026173ad
+      internalID: 1387117906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_139
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 659
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7d2a3590650fd4ab05fc271198c615
+      internalID: -402028272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_140
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 686
+        width: 75
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b95da426fa0dd5744bb92e3a9f6a29ef
+      internalID: -627529651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_141
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 692
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153d4f041e008594986e19034eb11e8f
+      internalID: 1662406757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_142
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 743
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3a023ad1b5bf047a0f8487584d881e
+      internalID: 982176439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_143
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 729
+        width: 147
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa36e9258995c2b43b4a644096c3c599
+      internalID: -299816587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_144
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 785
+        width: 66
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3c787699dd575488d6c85a1a917282
+      internalID: -2019856196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_145
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 791
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce93d8ba1062d4b4cae05238fbfc6294
+      internalID: 1792555598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_146
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 782
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef4db6c1e85dad40968b81f8601df28
+      internalID: 2104351775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_147
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 806
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cff0aed91a9e5fe459da28286ee10508
+      internalID: 2050857738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_148
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 803
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 075133770267e454a8730766af54cc31
+      internalID: 2018772968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_149
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 785
+        width: 33
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b42284a295dac234eaf0a246744e6c36
+      internalID: 207714999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_150
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 805
+        width: 40
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f88cc7bc2e2b644bf6764d0cddd8e7
+      internalID: -2099584512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_151
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 803
+        width: 68
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f178d35e2e8cdb49a205ac41b0f6978
+      internalID: 144424579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_152
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 870
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cafd061c99b144d4999224bd03829f3f
+      internalID: -760070488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_153
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 870
+        width: 75
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c31cae7c3db634340b65d6928fe37c30
+      internalID: 355530623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_154
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 898
+        width: 80
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cd0afc50b8e0ea49be708100d922e0f
+      internalID: 28566222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_155
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 915
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0eebe565ee592479ec69b1e8587111
+      internalID: -1824094734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_156
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 895
+        width: 25
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a0afd7fbc944b749878d8db4a60bc6b
+      internalID: -1862595673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_157
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 917
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc5c519de1d3764b9be6e33f06759d8
+      internalID: 818158832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_158
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 961
+        width: 47
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b118f73c4db547249b8a43a10d76ecf9
+      internalID: 1241727982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_159
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 964
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb40f16ad8cd4141ad0765f44315cff
+      internalID: 255872876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_160
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 968
+        width: 61
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f1fa877d0e4c54baceea5026b4cd6e
+      internalID: -1659343687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_161
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 975
+        width: 104
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed44f0cf809163647963f7d9671e0ceb
+      internalID: 1856694299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_162
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 987
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308a426674430e84493f30c020dc5881
+      internalID: 835745638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_163
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 927
+        width: 48
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853fbb6290b0b17468317203eac10869
+      internalID: -432890543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_164
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 932
+        width: 36
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d2808615968be4aa71624b07f51c8e
+      internalID: -1274268189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_165
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 869
+        width: 66
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea9e22bb48d6e84e8256b057089a3c5
+      internalID: 1098234983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_166
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 898
+        width: 172
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad70d51417a1f7445b8de486da5b1965
+      internalID: -809243609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_167
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 866
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f57bb77667bac3d40b7a6f4adfdae7a6
+      internalID: -371834656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_168
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 823
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec72a051717f1c4a8168cbdfc2f6333
+      internalID: -2133083167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_169
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 830
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae840aed74373a46b4a28fbd27e5721
+      internalID: 1545171562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Props_Suburbs_170
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 154
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5272b17f32c715844ad31a0cfa2bbae9
+      internalID: 968331849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Props_Suburbs_0: 219722459
+      Props_Suburbs_1: -1047425656
+      Props_Suburbs_10: -1699006523
+      Props_Suburbs_100: 2096796247
+      Props_Suburbs_101: -780302584
+      Props_Suburbs_102: -1250249143
+      Props_Suburbs_103: -175939528
+      Props_Suburbs_104: 1815733762
+      Props_Suburbs_105: 376185469
+      Props_Suburbs_106: 1605010606
+      Props_Suburbs_107: -1304917935
+      Props_Suburbs_108: 1693200217
+      Props_Suburbs_109: -1947941349
+      Props_Suburbs_11: 415555819
+      Props_Suburbs_110: -1627501535
+      Props_Suburbs_111: 509316605
+      Props_Suburbs_112: -560255913
+      Props_Suburbs_113: 1710492814
+      Props_Suburbs_114: -100492737
+      Props_Suburbs_115: -1401518252
+      Props_Suburbs_116: -948264572
+      Props_Suburbs_117: 904869145
+      Props_Suburbs_118: -1549045055
+      Props_Suburbs_119: -672264551
+      Props_Suburbs_12: 1033147888
+      Props_Suburbs_120: 478612572
+      Props_Suburbs_121: 642272815
+      Props_Suburbs_122: 913299182
+      Props_Suburbs_123: -1920293272
+      Props_Suburbs_124: -846608712
+      Props_Suburbs_125: -893203636
+      Props_Suburbs_126: -712848938
+      Props_Suburbs_127: 620273986
+      Props_Suburbs_128: 723826043
+      Props_Suburbs_129: 1698733357
+      Props_Suburbs_13: -346326055
+      Props_Suburbs_130: 1881521843
+      Props_Suburbs_131: 86885741
+      Props_Suburbs_132: 195168306
+      Props_Suburbs_133: -1748203578
+      Props_Suburbs_134: -168230585
+      Props_Suburbs_135: -1876344395
+      Props_Suburbs_136: -1297514393
+      Props_Suburbs_137: -297902358
+      Props_Suburbs_138: 1387117906
+      Props_Suburbs_139: -402028272
+      Props_Suburbs_14: -1149111422
+      Props_Suburbs_140: -627529651
+      Props_Suburbs_141: 1662406757
+      Props_Suburbs_142: 982176439
+      Props_Suburbs_143: -299816587
+      Props_Suburbs_144: -2019856196
+      Props_Suburbs_145: 1792555598
+      Props_Suburbs_146: 2104351775
+      Props_Suburbs_147: 2050857738
+      Props_Suburbs_148: 2018772968
+      Props_Suburbs_149: 207714999
+      Props_Suburbs_15: -1753543395
+      Props_Suburbs_150: -2099584512
+      Props_Suburbs_151: 144424579
+      Props_Suburbs_152: -760070488
+      Props_Suburbs_153: 355530623
+      Props_Suburbs_154: 28566222
+      Props_Suburbs_155: -1824094734
+      Props_Suburbs_156: -1862595673
+      Props_Suburbs_157: 818158832
+      Props_Suburbs_158: 1241727982
+      Props_Suburbs_159: 255872876
+      Props_Suburbs_16: 93732347
+      Props_Suburbs_160: -1659343687
+      Props_Suburbs_161: 1856694299
+      Props_Suburbs_162: 835745638
+      Props_Suburbs_163: -432890543
+      Props_Suburbs_164: -1274268189
+      Props_Suburbs_165: 1098234983
+      Props_Suburbs_166: -809243609
+      Props_Suburbs_167: -371834656
+      Props_Suburbs_168: -2133083167
+      Props_Suburbs_169: 1545171562
+      Props_Suburbs_17: 108108074
+      Props_Suburbs_170: 968331849
+      Props_Suburbs_18: 1022371886
+      Props_Suburbs_19: -88255812
+      Props_Suburbs_2: -2028070328
+      Props_Suburbs_20: -721350338
+      Props_Suburbs_21: -579467250
+      Props_Suburbs_22: -1142965760
+      Props_Suburbs_23: -1699348401
+      Props_Suburbs_24: -1685423882
+      Props_Suburbs_25: 1297728263
+      Props_Suburbs_26: 2084991999
+      Props_Suburbs_27: -1445633344
+      Props_Suburbs_28: -70085086
+      Props_Suburbs_29: -1970414056
+      Props_Suburbs_3: -56624477
+      Props_Suburbs_30: 1777484654
+      Props_Suburbs_31: 550397547
+      Props_Suburbs_32: 1894490649
+      Props_Suburbs_33: 2019313983
+      Props_Suburbs_34: 1849622928
+      Props_Suburbs_35: 1868320384
+      Props_Suburbs_36: 2038877792
+      Props_Suburbs_37: -386333254
+      Props_Suburbs_38: -697670577
+      Props_Suburbs_39: -1398853224
+      Props_Suburbs_4: -158419931
+      Props_Suburbs_40: -38377589
+      Props_Suburbs_41: -191931313
+      Props_Suburbs_42: 2002104484
+      Props_Suburbs_43: 1936567967
+      Props_Suburbs_44: 196849497
+      Props_Suburbs_45: 2142809972
+      Props_Suburbs_46: -1785009125
+      Props_Suburbs_47: -1764463153
+      Props_Suburbs_48: 1514553722
+      Props_Suburbs_49: -1579431332
+      Props_Suburbs_5: -875938888
+      Props_Suburbs_50: 1049386733
+      Props_Suburbs_51: 2007443059
+      Props_Suburbs_52: 519808322
+      Props_Suburbs_53: -890556585
+      Props_Suburbs_54: 1872300691
+      Props_Suburbs_55: 1237807745
+      Props_Suburbs_56: 1575810418
+      Props_Suburbs_57: 1763119686
+      Props_Suburbs_58: 364031565
+      Props_Suburbs_59: -1313392058
+      Props_Suburbs_6: 1419466218
+      Props_Suburbs_60: -108866594
+      Props_Suburbs_61: -485495749
+      Props_Suburbs_62: 13063473
+      Props_Suburbs_63: -1383774932
+      Props_Suburbs_64: 1168329596
+      Props_Suburbs_65: -701148454
+      Props_Suburbs_66: 632968215
+      Props_Suburbs_67: 640474658
+      Props_Suburbs_68: -2035340405
+      Props_Suburbs_69: 1285412049
+      Props_Suburbs_7: 1177632929
+      Props_Suburbs_70: -1330340748
+      Props_Suburbs_71: -1892835654
+      Props_Suburbs_72: 783688894
+      Props_Suburbs_73: 1745418993
+      Props_Suburbs_74: 361018878
+      Props_Suburbs_75: 1310336443
+      Props_Suburbs_76: -632971634
+      Props_Suburbs_77: -1132221152
+      Props_Suburbs_78: 931582071
+      Props_Suburbs_79: 2007601049
+      Props_Suburbs_8: 1534121490
+      Props_Suburbs_80: -1165053430
+      Props_Suburbs_81: 141294352
+      Props_Suburbs_82: -1478731711
+      Props_Suburbs_83: -243215539
+      Props_Suburbs_84: 1995943843
+      Props_Suburbs_85: 1122230964
+      Props_Suburbs_86: -2016316788
+      Props_Suburbs_87: -479987305
+      Props_Suburbs_88: -860472927
+      Props_Suburbs_89: 662415207
+      Props_Suburbs_9: -1295728544
+      Props_Suburbs_90: -442386576
+      Props_Suburbs_91: -359000798
+      Props_Suburbs_92: -1645929438
+      Props_Suburbs_93: 216742825
+      Props_Suburbs_94: 547343612
+      Props_Suburbs_95: -366766417
+      Props_Suburbs_96: 628099346
+      Props_Suburbs_97: 988365186
+      Props_Suburbs_98: 1238830039
+      Props_Suburbs_99: -2056360127
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1291 @@
+fileFormatVersion: 2
+guid: 1e744909ca20e1945b13a9f45c456643
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 12
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: InGameMenuSpecific_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 933
+        width: 964
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1a2e8fc309f0149818eab8f6a30054
+      internalID: 1500231462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGameMenuSpecific_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 786
+        width: 423
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05347e14fe17a046aca763d85063424
+      internalID: -2059560367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGameMenuSpecific_2
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 794
+        width: 121
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a81abdaf0568d48ac3ab6f0d05b48d
+      internalID: -1914035334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGameMenuSpecific_3
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 814
+        width: 118
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3cc99f7e77d074e9fb84d0d93abb16
+      internalID: 1854585288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGameMenuSpecific_4
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 826
+        width: 94
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f809f94236898d94a83987f54107c7d5
+      internalID: -726234698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGameMenuSpecific_5
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 844
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4809dc74a9250649a97bd5bd5888dbc
+      internalID: -820082697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGameMenuSpecific_6
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 849
+        width: 81
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 807aa9efdecbf964681cfc5d7d638b40
+      internalID: 1903879756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGameMenuSpecific_7
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 859
+        width: 68
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60839eda7736d184096df0d394f7dacf
+      internalID: -1072942920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGameMenuSpecific_8
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 658
+        width: 121
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eb6738f0b7f6d64cb76faf11c1c8bd8
+      internalID: 601178005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGameMenuSpecific_9
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 698
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ebcc2aac279c7428ae81b205707d62
+      internalID: -891086414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGameMenuSpecific_10
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 740
+        width: 73
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 356f282b63730d340ae94fc9743979dc
+      internalID: 223051790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGameMenuSpecific_11
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 763
+        width: 81
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bade66983452ae4091b31e4c159e53a
+      internalID: 49641163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGameMenuSpecific_12
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 779
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f07cb039175cf4aafca957cface793
+      internalID: 837226380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGameMenuSpecific_13
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 644
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3601aa3c5d7674db0aa76b05b590b6
+      internalID: 386961966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGameMenuSpecific_14
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 685
+        width: 72
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b35cd286def6c38409dd92e302cb8468
+      internalID: -413111406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGameMenuSpecific_15
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 699
+        width: 31
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de4d6d2e21e4bf42871097e74c055b0
+      internalID: -1227030037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGameMenuSpecific_16
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 517
+        width: 117
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73614367e5946ce43aca9a429a6f7d0d
+      internalID: -1658190557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGameMenuSpecific_17
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 607
+        width: 72
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b689eb086a8cd4044a80beca095f9871
+      internalID: -184936627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGameMenuSpecific_18
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 623
+        width: 28
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bacb7e860e2890b4fb134819787ea913
+      internalID: -1019266293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGameMenuSpecific_19
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 529
+        width: 72
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecccd4ccae01b3f4cb9e86cba979eb16
+      internalID: -1648966006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGameMenuSpecific_20
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 551
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdffe4fd43ad98248879a415c15e395e
+      internalID: -1633326709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGameMenuSpecific_21
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 397
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7930af7345231e4193cd4f63df56dad
+      internalID: -825991057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGameMenuSpecific_22
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 373
+        width: 117
+        height: 141
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eca290860012eb4fac2673b72af67c5
+      internalID: -479894497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGameMenuSpecific_23
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 451
+        width: 72
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a544b639e587b9948aa2d42bb1978ae4
+      internalID: -861738369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGameMenuSpecific_24
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 381
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8381361a303379a4cab8b7ce8e7c7ad2
+      internalID: 1879789055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGameMenuSpecific_25
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 260
+        width: 109
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e87ebf8c91a73ee459c80ccc3fef1cc6
+      internalID: -327642867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGameMenuSpecific_26
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 230
+        width: 116
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 002ba303895cb8e41b7461cb9b8624b9
+      internalID: 1016089164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGameMenuSpecific_27
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 218
+        width: 76
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199b252785ebc7a4db9ee79f383c3f9a
+      internalID: -1574872753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGameMenuSpecific_28
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 48
+        width: 74
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d932901cf160d174d9a190b093738cdc
+      internalID: -721341778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGameMenuSpecific_29
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 2
+        width: 117
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c194b4c725b53cd4eb3d1514e97718fa
+      internalID: -1941180378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGameMenuSpecific_30
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 110
+        width: 111
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed418ca13976baf4cb9df42dceeb36af
+      internalID: 590709093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGameMenuSpecific_31
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 148
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e3bcb175350354599f4f52bbf7a03a
+      internalID: 70918234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGameMenuSpecific_32
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 134
+        width: 79
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d6cb2adaa58b7c46a97dd62ad93169d
+      internalID: 69780916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGameMenuSpecific_33
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 15
+        width: 93
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d0b48854b5b9444c88066bc215f639a
+      internalID: 607119165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGameMenuSpecific_34
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 54
+        width: 79
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a546bac475a01b448645ddf0f4e1506
+      internalID: 927909501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGameMenuSpecific_35
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 521
+        width: 208
+        height: 262
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f8a39c9f0d12d84d92ef6c3cea2c566
+      internalID: 972482048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGameMenuSpecific_36
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 399
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb9d6042db7f1149833c8a3ea6ce724
+      internalID: 1355384156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGameMenuSpecific_37
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 256
+        width: 126
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa299f51e90cbc4f8755cd8a344fdc7
+      internalID: -1789845992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGameMenuSpecific_38
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 2
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb1ad903e4d74246936fef03bbd8075
+      internalID: -734772859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGameMenuSpecific_39
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 132
+        width: 85
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 136f3679b34fc674c9fd1c43aa5348c0
+      internalID: 2093509824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGameMenuSpecific_40
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 118
+        width: 121
+        height: 136
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684ddc3b2a3bb8b4aa2efc828d78f878
+      internalID: -1200182522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGameMenuSpecific_41
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 558
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff3a003426c9ae42902e69a9d2e78fa
+      internalID: 1710130326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGameMenuSpecific_42
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 472
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed2a49ec668df341bd5703d1fcfd2e8
+      internalID: -1621588590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGameMenuSpecific_43
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 388
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3cd3065384653d4caf836f6354f5b80
+      internalID: 727968570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGameMenuSpecific_44
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 351
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4098dac740497224ab91ad1940bc4a47
+      internalID: 595940934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGameMenuSpecific_45
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 468
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cb37836b8cc6c04e8a38b0c39150064
+      internalID: -1497529946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGameMenuSpecific_46
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 585
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25fcfffd729857441908c038c75db9e9
+      internalID: 1807495460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGameMenuSpecific_47
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 235
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ceb5984c9a06047b6175d5c6e73486
+      internalID: 439471718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGameMenuSpecific_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3
+        width: 85
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 212badbe3383f0d4abbfb1a0ddc3168e
+      internalID: 1349343086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGameMenuSpecific_49
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 4
+        width: 85
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b82ea95889444f44d979c25dd9388b40
+      internalID: 1634146595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGameMenuSpecific_50
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 252
+        width: 267
+        height: 529
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495aec48f00d30a4a942a8a62e328228
+      internalID: -1491001741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: InGameMenuSpecific_51
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 25
+        width: 72
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d6ee66ed6a6bda43b40c52bc4edf26d
+      internalID: -807904415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      InGameMenuSpecific_0: 1500231462
+      InGameMenuSpecific_1: -2059560367
+      InGameMenuSpecific_10: 223051790
+      InGameMenuSpecific_11: 49641163
+      InGameMenuSpecific_12: 837226380
+      InGameMenuSpecific_13: 386961966
+      InGameMenuSpecific_14: -413111406
+      InGameMenuSpecific_15: -1227030037
+      InGameMenuSpecific_16: -1658190557
+      InGameMenuSpecific_17: -184936627
+      InGameMenuSpecific_18: -1019266293
+      InGameMenuSpecific_19: -1648966006
+      InGameMenuSpecific_2: -1914035334
+      InGameMenuSpecific_20: -1633326709
+      InGameMenuSpecific_21: -825991057
+      InGameMenuSpecific_22: -479894497
+      InGameMenuSpecific_23: -861738369
+      InGameMenuSpecific_24: 1879789055
+      InGameMenuSpecific_25: -327642867
+      InGameMenuSpecific_26: 1016089164
+      InGameMenuSpecific_27: -1574872753
+      InGameMenuSpecific_28: -721341778
+      InGameMenuSpecific_29: -1941180378
+      InGameMenuSpecific_3: 1854585288
+      InGameMenuSpecific_30: 590709093
+      InGameMenuSpecific_31: 70918234
+      InGameMenuSpecific_32: 69780916
+      InGameMenuSpecific_33: 607119165
+      InGameMenuSpecific_34: 927909501
+      InGameMenuSpecific_35: 972482048
+      InGameMenuSpecific_36: 1355384156
+      InGameMenuSpecific_37: -1789845992
+      InGameMenuSpecific_38: -734772859
+      InGameMenuSpecific_39: 2093509824
+      InGameMenuSpecific_4: -726234698
+      InGameMenuSpecific_40: -1200182522
+      InGameMenuSpecific_41: 1710130326
+      InGameMenuSpecific_42: -1621588590
+      InGameMenuSpecific_43: 727968570
+      InGameMenuSpecific_44: 595940934
+      InGameMenuSpecific_45: -1497529946
+      InGameMenuSpecific_46: 1807495460
+      InGameMenuSpecific_47: 439471718
+      InGameMenuSpecific_48: 1349343086
+      InGameMenuSpecific_49: 1634146595
+      InGameMenuSpecific_5: -820082697
+      InGameMenuSpecific_50: -1491001741
+      InGameMenuSpecific_51: -807904415
+      InGameMenuSpecific_6: 1903879756
+      InGameMenuSpecific_7: -1072942920
+      InGameMenuSpecific_8: 601178005
+      InGameMenuSpecific_9: -891086414
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
